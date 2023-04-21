@@ -4,27 +4,27 @@ class Lotteri:
     
     def __init__(self):
         self.list_vinster = [
-        "Solstol",
-        "Röd Porche",
-        "Handduk",
-        "Ockelbo 500",
-        "10 liter tvål",
-        "BMX cykel",
-        "Surf Bräda ",
-        "Burton Snowboard"
-        "Kawasaki KLX 230 Cross"
-        "ett paket Bregott",
-        "Hawai resa",
-        "en biltvätt på OK",
-        "Kaffe och bulle",
-        "Lyx yatch",
-        "Iphone",
-        "JBL hörlurar",
-        "Makitat skruvdragare",
-        "parfume från Hugo Boss",
-        "konsertbiljett till The Killers",
-        "ett kilo kattmat",
-        "ett marsvin"
+        "Ljusgul fluffig kula",
+        "Grek-stek",
+        "Ak-fempan",
+        "Gunnarssons trä-skor",
+        "10 liter nomnom",
+        "Maglies naturgodis",
+        "Walters Kristaller",
+        "Viggos Morot"
+        "PJ's popcorn"
+        "en burk cornichons",
+        "rättigheterna till pewdiepies första låt",
+        "En magisk svamp",
+        "Dag Hellby's Kanon",
+        "Gustav Kanon",
+        "en påskö-staty",
+        "en gaminghjälm",
+        "en daddel",
+        "VIP-biljett till Lekdags 2",
+        "Grisphilips bacon",
+        "en magisk svamp",
+        "ett gåthorn"
         ]
 
     def get_vinst(self):
