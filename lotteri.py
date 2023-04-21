@@ -15,13 +15,13 @@ class Lotteri:
         "PJ's popcorn"
         "en burk cornichons",
         "rättigheterna till pewdiepies första låt",
-        "En magisk svamp",
+        "en magisk svamp",
         "Dag Hellby's Kanon",
         "Gustav Kanon",
         "en påskö-staty",
         "en gaminghjälm",
         "en daddel",
-        "VIP-biljett till Lekdags 2",
+        "en VIP-biljett till Lekdags 2",
         "Grisphilips bacon",
         "en magisk svamp",
         "ett gåthorn"
